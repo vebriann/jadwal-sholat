@@ -16,5 +16,5 @@ git pull
 # How To Use Script
 ```
 cd jadwal-sholat
-python shortener.py
+python waktu-ibadah.py
 ```
